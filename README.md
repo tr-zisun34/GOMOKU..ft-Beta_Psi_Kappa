@@ -1,0 +1,1 @@
+# GOMOKU..ft-Beta_Psi_Kappa
